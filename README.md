@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML | CSS | JAVASCRIPT | REACT JS | NODE JS | EXPRESS JS | MONGODB**
 
-- 📫 How to reach me **alyanakmal111@gmail.com**
+- 📫 How to reach me **mfaizannoor11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
