@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](./github-header-image.png)
+
 
 <h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
 
